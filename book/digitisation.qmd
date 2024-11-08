@@ -21,7 +21,7 @@ Opinions often vary on how/what we consider digitised objects to be and what we 
 
 ### Glossary
 - **Mega Pixels** You’ll have heard your phone boasting about how many megapixels its camera has. But this isn’t always an indicator of quality, there are lots of other factors, the more important being the size and quality of the imaging sensor. 
-[IMAGE 2 DEMO SENSOR SIZE?]
+![An illustration showing example digital image sensor sizes.]({{site.url}}/book/images/Image-Sensor-Sizes.jpg)
 - **Multispectral Imaging** This is a method of examining an object under different wavelengths of light – you’ve probably heard of infrared and ultraviolet, but there’s a huge spectrum that can be applied in order to reveal underwriting or investigate faded text and even the structure of the medium. 
 - **Photogrammetry** Using images to obtain accurate measurable information of real-world objects and the terrain. It sounds snazzy and new, but its been around almost as long as photography itself and was used to create mapping data, it just used to take a lot longer before computers existed.
 - **RTI** Reflectance Transformation Imaging (RTI) is a technique that creates hyper-real digital images with which the viewer can interact. It creates texture mapping by capturing multiple images of the subject from a fixed point whilst the light source varies in position.
