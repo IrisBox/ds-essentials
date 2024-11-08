@@ -1,0 +1,40 @@
+# Digitisation: Imaging, 3D and RTI {.unnumbered}
+>Contributed by: Andy Corrigan, [ORCID iD](https://orcid.org/0000-0002-3896-2489)<br>
+>Original published date: 08/11/2024<br>
+>Last modified: See Github page history
+>
+>Suggested Citation: Andy Corrigan, “Digitisation: Imaging, 3D and RTI,” *Digital Scholarship & Data Science Essentials for Library Professionals* (2024), [DOI link tbd]
+
+## Introduction: What is IIIF? 
+
+Over recent decades research library collections, operations, and audiences have moved from a largely analogue to a mixed analogue/digital environment. Advances in digital imaging have put digitisation in the position of being one of the most prominent demonstrations of this digital shift [link…]. Of course, now that almost everyone has a camera available to them via their phone, it’s easy for anyone to create a photo, or even make their own 3D model. But navigating this now complex landscape of technologies, terminologies, methodologies, gadgets and gizmos can be quite daunting.
+
+### Decision making
+There is often a misconception that digitisation is cheap, quick and easy, but quality comes at a cost and, as with a lot of things, you get what you pay for. Knowing and understanding why you are digitising something, and what it will be used for, will also inform the decision process, so spend some time thinking about that as well - the wrong choices can be costly and time consuming. 
+
+If you don’t have the confidence or resources to digitise your content yourself then there are plenty of options available. For example, some larger institutions already have well equipped imaging studios/labs, so it is worth asking for advice or seeing what services might be available. There are also commercial companies that specialise in different aspects of digitisation as well, so it’s worth looking around and doing your research when planning a project as a wide range of budgets can be catered for. It’s also worth hunting around for any pots of funding that might be available to assist you – a little can go a long way, but you need to make every penny count.  
+
+Identifying the right solution, or combination, to use can be confusing, and often restricted by what resources you might have available - there are always choices to make and many of the technologies advance so quick that whatever you choose will likely be out of date by the time you’ve finished - so my advice is to do the best with what you can, and know who, and when, to ask for advice! 
+
+### Facsimile, surrogate, object or edition? 
+Opinions often vary on how/what we consider digitised objects to be and what we call them. You may have come across the terms “digital surrogate”, “digital facsimile” or “digital edition” for example. But regardless of what we call them, it is now widely considered that the outputs of digitisation, whilst inherently connected to the analogue original, ontologically constitute a new thing in themselves. (cite?) It’s therefore important to be aware that digitisation processes remove or reduce some aspects but can add or increase others. Another thing to remember, especially when it comes to ethical considerations, is the impact of our own narrative. Our interactions, and the choices we make, become entwined and embedded through the process of digitisation, and this should be thought through as well (see Fafinski…). 
+
+### Glossary
+- **Mega Pixels** You’ll have heard your phone boasting about how many megapixels its camera has. But this isn’t always an indicator of quality, there are lots of other factors, the more important being the size and quality of the imaging sensor. 
+[IMAGE 2 DEMO SENSOR SIZE?]
+- **Multispectral Imaging** This is a method of examining an object under different wavelengths of light – you’ve probably heard of infrared and ultraviolet, but there’s a huge spectrum that can be applied in order to reveal underwriting or investigate faded text and even the structure of the medium. 
+- **Photogrammetry** Using images to obtain accurate measurable information of real-world objects and the terrain. It sounds snazzy and new, but its been around almost as long as photography itself and was used to create mapping data, it just used to take a lot longer before computers existed.
+- **RTI** Reflectance Transformation Imaging (RTI) is a technique that creates hyper-real digital images with which the viewer can interact. It creates texture mapping by capturing multiple images of the subject from a fixed point whilst the light source varies in position.
+- **Lidar** Stands for ‘light detection and ranging’ and is a remote sensing method that uses pulses of light to measure distances and angles as they bounce back into the sensor. The data produced can be used to build 3D models of the terrain or objects.
+- **AR/VR/XR** You might have come across all three of these terms and been slightly confused as to what the difference is. Augmented reality (AR) is an experience where reality is enhanced in some way using technology. Virtual reality (VR) is usually an entirely simulated experience in which you are immersed. Extended reality (XR) is an umbrella term that encompasses AR, VR or even mixed reality (MR).
+
+## Relevance to the Library Sector (Case Studies/Use Cases)
+
+## Hands-on activity and other self-guided tutorial(s)
+
+## Recommended Reading/Viewing 
+- A. Person
+- A.N Other
+- J. Blogs
+
+## Taking the next step
