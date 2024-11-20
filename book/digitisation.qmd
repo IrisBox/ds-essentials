@@ -30,6 +30,12 @@ Opinions often vary on how/what we consider digitised objects to be and what we 
 - **Lidar** Stands for ‘light detection and ranging’ and is a remote sensing method that uses pulses of light to measure distances and angles as they bounce back into the sensor. The data produced can be used to build 3D models of the terrain or objects.
 - **AR/VR/XR** You might have come across all three of these terms and been slightly confused as to what the difference is. Augmented reality (AR) is an experience where reality is enhanced in some way using technology. Virtual reality (VR) is usually an entirely simulated experience in which you are immersed. Extended reality (XR) is an umbrella term that encompasses AR, VR or even mixed reality (MR).
 
+### Other Considerations
+- **Hosting** Your institution might have one or more hosting solutions on which you can store your digitisation and make it available over the web and integrate it into existing systems. If not, then [IIIF](https://iiif.io/) might be worth exploring, and a great place to start is the [Topic Guide on IIIF]({{site.url}}iiif.html). But whilst regular image hosting options are common, more complex digital objects can be a challenge. If you are creating 3D models, RTI or other specialist imaging, you will need to consider a number of options. Many cultural institutions have been hosting their 3D models through a platform called (Sketchfab)[https://sketchfab.com/], but at the time of writing, the platform has recently been absorbed into a bigger gaming company, and its future is in doubt, providing a good example of how challenging it can be relying on third party services. Other options to consider include (MorphoSource)[https://www.morphosource.org/], a data repository that is more focussed on research and academia. The IIIF community are currently working on support for 3D objects, so keep an eye on developments there!  
+- **Copyright and licensing** is a complex issue, but an essential consideration when digitising anything. [!!!See COPYRIGHT guide page!!!]({{site.url}}/ ... !!!)  
+- **Digital Preservation** is also important to consider - digitisation can be expensive, so don't risk loosing your valuable assets. [See Digit Pres Coalition]
+- **Lighting** is often as important, if not more so, than the camera you are using. 
+
 ## Relevance to the Library Sector (Case Studies/Use Cases)
 
 ## Hands-on activity and other self-guided tutorial(s)
@@ -40,4 +46,3 @@ Opinions often vary on how/what we consider digitised objects to be and what we 
 - J. Blogs
 
 ## Taking the next step
-
