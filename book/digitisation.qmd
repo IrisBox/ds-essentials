@@ -61,6 +61,9 @@ But 3D models don’t work for everything. In another project we have been colla
 Viewing RTI files currently requires specific software, although developments are underway to facilitate the experience through a web browser. The video below demonstrates a few examples that showcase what the experience is like: 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HKtEo6go0KE?si=wq1JQFHoONt7X78L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+You might even find that occasionally people want to see inside something! CT Scanning certainly isn’t an everyday technique that we might associate with research libraries, but you never know. The CT scan shown in the video below is of a fish specimen collected by Charles Darwin on the Beagle Voyage nearly 200 years ago. Preserved in alcohol in a jar, it's not very easy to inspect or study the real thing:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/02DyAzjkwG0?si=pHsBEavpdPSbBcTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Hands-on activity and other self-guided tutorial(s)
 
 ## Recommended Reading/Viewing 
