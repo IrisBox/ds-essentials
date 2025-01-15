@@ -37,8 +37,16 @@ Opinions often vary on how/what we consider digitised objects to be and what we 
 - **Lighting** is often as important, if not more so, than the camera you are using. 
 
 ## Relevance to the Library Sector (Case Studies/Use Cases)
+One of the biggest benefits to digitising content is often thought of as one of access. Sharing things that have been locked away in our libraries and archives, sometimes for many hundreds of years, to anyone, anywhere in the world with an internet connection is a very powerful thing. But this isn’t the only reason or advantage to digitisation - some might be surprising or even more compelling.
 
-### Flat digitisation
+Acknowledgment that the act of digitisation is also an important and valuable part of the research process is steadily growing. For example, over the last few years in the UK, recognition amongst university and research institutions of initiatives such as the [Technician Commitment](https://www.techniciancommitment.org.uk/) and the [Hidden Ref](https://hidden-ref.org/) has been increasingly impactful. 
+
+### Case Study: Cambridge University Library
+By way of a case study, I wanted to share some stories relating to digitisation here at Cambridge University Library. Hopefully these demonstrate just some of the potential and value of digitisation. 
+
+We are lucky here at Cambridge that a long history of larger scale digitisation projects means we have been able to steadily increase the amount of equipment, skills, and experience we have and the services we can offer researchers. But this activity is more than a service, we work in direct collaboration with researchers, curators, conservators, publishers and exhibitions teams to help them achieve the results they need. 
+
+### "Flat" digitisation
 At Cambridge, our focus is very much on delivering the highest possible quality results we can. This is good practice when thinking about the longevity of your outputs, digital preservations needs thinking about at every stage of course, but a major advantage of this approach is that the higher quality the result, the more likely you are to make new discoveries and learn new things about the objects in our care. We have so many examples of things that have only been spotted because of the high quality imaging we produce. 
 <iframe src="https://exhibit.cdh.cam.ac.uk/exhibits/J09c871NbANh2H1AcHqA?embedded=true" width="640" height="480" allowfullscreen allow="autoplay" frameborder="0"></iframe>
 
@@ -52,10 +60,6 @@ So, as we can see, 3D modeling can facilitate deeper study and reduce the need t
 But 3D models don’t work for everything. In another project we have been collaborating across the other collections at the University of Cambridge to experiment with digitally re-uniting the wide variety of collections relating to Charles Darwin that the University has split over various museums and archives. One particular challenge with this project was presented in the form of herbarium sheets. Plant specimens that Darwin collected on the Beagle Voyage, some of which are now extinct. Whilst the writing on the sheets is well captured by a flat digital image, the plant parts themselves have form and texture, an understanding of which cannot be perceived so well on a flatly lit image. We experimented with 3D modelling them, but ironically they are too flat – the processes involved in 3D modelling didn’t cope well with the flat paper surfaces. Whilst it would be possible to rectify this digitally, it would take a great deal of time, rendering the process extremely inefficient. So we are experimenting with RTI, which allows us to capture texture in a much more engaging way. 
 Viewing RTI files currently requires specific software, although developments are underway to facilitate the experience through a web browser. The video below demonstrates a few examples that showcase what the experience is like: 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HKtEo6go0KE?si=wq1JQFHoONt7X78L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-### Revealing the invisible
-
-
 
 ## Hands-on activity and other self-guided tutorial(s)
 
