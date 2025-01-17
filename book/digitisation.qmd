@@ -42,7 +42,7 @@ One of the biggest benefits to digitising content is often thought of as one of 
 Acknowledgment that the act of digitisation is also an important and valuable part of the research process is steadily growing. For example, over the last few years in the UK, recognition amongst university and research institutions of initiatives such as the [Technician Commitment](https://www.techniciancommitment.org.uk/) and the [Hidden Ref](https://hidden-ref.org/) has been increasingly impactful. 
 
 ### Case Study: Cambridge University Library
-By way of a case study, I wanted to share some stories relating to digitisation here at Cambridge University Library. Hopefully these demonstrate just some of the potential and value of digitisation. 
+By way of a case study, I wanted to share some stories relating to digitisation here at [Cambridge Digital Library](https://cudl.lib.cam.ac.uk/). Hopefully these demonstrate just some of the potential and value of digitisation. 
 
 We are lucky here at Cambridge that a long history of larger scale digitisation projects means we have been able to steadily increase the amount of equipment, skills, and experience we have and the services we can offer researchers. But this activity is more than a service, we work in direct collaboration with researchers, curators, conservators, publishers and exhibitions teams to help them achieve the results they need. 
 
@@ -82,8 +82,43 @@ The question you always need to ask yourself though, is should you?
 - **Step 5:** Now you can take a screenshot and send it round the team to make everyone smile!
 
 ## Recommended Reading/Viewing 
-- A. Person
-- A.N Other
-- J. Blogs
+There’s loads out there to read-up on that covers everything from the very technical aspects and guidance to the more philosophical side of things - inspiration is everywhere and creative approaches have a habit of seeding into fruitful outcomes!
+- **‘Material Awareness : Exploring the Entanglement of Library Digitization and Digital Textual Scholarship’**  
+Martinez, Merisa. (2024). PhD dissertation. Högskolan i Borås. Available at: https://urn.kb.se/resolve?urn=urn:nbn:se:hb:diva-31790.  
+- **‘Why Do We Digitize? The Case for Slow Digitization’**  
+Prescott, Andrew and Hughes, Lorna. (2018). Archive Journal.  
+Available at: https://www.archivejournal.net/essays/why-do-we-digitize-the-case-for-slow-digitization/   
+- **‘A Field Guide to Digital Surrogates: Evaluating and Contextualizing a Rapidly Changing Resource’**  
+Stanford, Emma. (2020), in Kathryn Brown (ed.) ‘The Routledge Companion to Digital Humanities and Art History’ (1st ed.). Routledge. Pp 203-214.   
+Available at: https://doi.org/10.4324/9780429505188  
+- **‘Digital humanities and digitised cultural heritage’**  
+Terras, Melissa. (2022), in J O'Sullivan (ed.), ‘The Bloomsbury Handbook to the Digital Humanities’ (1st ed.). Bloomsbury Handbooks, Bloomsbury Academic. pp. 255-266.  
+Available at: https://doi.org/10.5040/9781350232143.ch-24    
+
+Technical Guidance:  
+- **‘Remote Capture: Digitising Documentary Heritage in Challenging Locations’**  
+Edited by Jody Butterworth, Andrew Pearson, Patrick Sutherland & Adam Farquhar. (2018). Open Book Publishers.  
+Available at: https://doi.org/10.11647/OBP.0138  
+- **'From Shelf to Europeana: Digitization Workflow Handbook'**  
+Europeana  
+Available at: https://europeana.github.io/fste-digitization-handbook/  
+- **‘Basic principles and tips for 3D digitisation of cultural heritage’**  
+Europeana (2020)  
+Available at: https://digital-strategy.ec.europa.eu/en/library/basic-principles-and-tips-3d-digitisation-cultural-heritage  
+- **‘Learning hub’**  
+Association for Historical & Fine Art Photography (AHFAP)  
+Available at: https://ahfap.org.uk/learning-hub  
+- **'Manual for the photography of 3D objects’**    
+Rijksmuseum (2017)  
+Available at: http://colostateprofessionalpractices.weebly.com/uploads/5/8/8/5/58856297/rijksmuseum_manual-3d.pdf  
+- **'Technical Guidelines for Digitizing Cultural Heritage Materials'** (3rd ed.)  
+Federal Agencies Digital Guidelines Initiative (FADGI), (2023)  
+Available at: https://www.digitizationguidelines.gov/guidelines/digitize-technical.html   
+- **‘The London Charter: For the Computer-Based Visualisation of Cultural Heritage’**  
+(2009)  
+Available at: https://londoncharter.org/   
 
 ## Taking the next step
+As we all know, libraries are friendly places and often keen on collaborating. Why not reach out to some libraries with digitisation studios and see if you can go and visit them to learn a bit more about how they operate or what equipment they’re using first hand - it can really help to see a variety of different set-ups in person to start building up an idea of what might work for you. 
+
+Or try and find a workshop or summer school to attend that will give you some hand-on experience?
